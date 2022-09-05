@@ -1,0 +1,39 @@
+
+
+
+
+body {
+
+    background-color:aquamarine;
+    
+    }
+    
+    .menu {
+    
+    background-color: aqua;
+    padding: 1rem;
+    
+    }
+    
+    .menu ul {
+    
+    list-style:none;
+    
+    }
+    
+    .menu li {
+    
+    display: inline-block;
+    padding-left:2rem;
+    
+    }
+    
+    .menu a {
+    
+    text-decoration:none;
+    color:#111111;
+    font-weight: bold; 
+    }
+
+    
+    
